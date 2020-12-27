@@ -1,2 +1,8 @@
 this is the sample program- gitbash
+welcome to devops course
+Development Operations
+git
+version control system
+designed to handle everything from small database to large database.
+
 
